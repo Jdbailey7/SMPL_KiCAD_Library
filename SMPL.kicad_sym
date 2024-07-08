@@ -3513,7 +3513,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -5.08 180)
+				(at 12.7 0 180)
 				(length 2.54)
 				(name "Input"
 					(effects
@@ -3549,7 +3549,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 0 180)
+				(at 12.7 -5.08 180)
 				(length 2.54)
 				(name "Output"
 					(effects
