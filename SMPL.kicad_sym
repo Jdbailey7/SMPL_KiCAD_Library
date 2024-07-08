@@ -3268,7 +3268,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "DSC"
+		(property "Reference" "K"
 			(at 8.89 8.89 0)
 			(effects
 				(font
